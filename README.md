@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # App-thempage
 
 This README outlines the details of collaborating on this Ember application.
@@ -23,3 +24,7 @@ This README outlines the details of collaborating on this Ember application.
 * `ember build`
 
 For more information on using ember-cli, visit [http://iamstef.net/ember-cli/](http://iamstef.net/ember-cli/).
+=======
+app-thempage
+============
+>>>>>>> 442ded5fddd53e57fff9012e680494c7dde1c6d2
